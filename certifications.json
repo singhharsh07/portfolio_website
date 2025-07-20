@@ -1,0 +1,42 @@
+[
+    {
+        "title": "python matplotlib",
+        "desc": "it is a library of python which is used in data science",
+        "duration": "jan 2024",
+        "images": [
+            "uploads\/cert_687d0e768b5724.39105550.jpg"
+        ]
+    },
+    {
+        "title": "HTML",
+        "desc": "html is used for website design",
+        "duration": "Oct 2024",
+        "images": [
+            "uploads\/cert_687d0ebd842c19.67349147.jpg"
+        ]
+    },
+    {
+        "title": "python for machine learning",
+        "desc": "it is a programing language which is used in machine learning",
+        "duration": "Jan 2024",
+        "images": [
+            "uploads\/cert_687d0f052c8207.65438298.jpg"
+        ]
+    },
+    {
+        "title": "workshop certificate",
+        "desc": "it is a certificate for workshop on website design",
+        "duration": "25 Nov 2024 -2 Dec 2024",
+        "images": [
+            "uploads\/cert_687d0f54c257a0.83996603.jpg"
+        ]
+    },
+    {
+        "title": "Front end web development",
+        "desc": "it is an internship certificate of website design of three months at byteminders",
+        "duration": "11 Nov 2024 -11 Feb 2025",
+        "images": [
+            "uploads\/cert_687d0fc14088a3.32786128.jpg"
+        ]
+    }
+]

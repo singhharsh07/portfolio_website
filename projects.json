@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Resort Website",
+        "desc": "The resort website serves as a digital platform for promoting and managing a resort's offerings, acting as a central hub for both guests and staff. It allows guests to book accommodations, activities, dining, and other services, while also providing resort owners and managers with tools to handle reservations, staff schedules, inventory, billing, and marketing.",
+        "duration": "Jan 2025 - Feb 2025",
+        "technologies": "HTML, CSS, Javascript, PHP",
+        "images": [
+            "uploads\/img_687d0a5d862cb6.52224056.png",
+            "uploads\/img_687d0a5d867823.70891468.png",
+            "uploads\/img_687d0a5d86c226.94014989.png",
+            "uploads\/img_687d0a5d870e03.98450155.png",
+            "uploads\/img_687d0a5d8a7337.76175414.png",
+            "uploads\/img_687d0a5d8ac550.98621582.png",
+            "uploads\/img_687d0a5d8b1501.72321110.png",
+            "uploads\/img_687d0a5d8b5e03.27685615.png",
+            "uploads\/img_687d0a5d8ba7c0.97657953.png",
+            "uploads\/img_687d0a5d8bef43.15507985.png"
+        ],
+        "cover_image": "uploads\/img_687d0a5d862cb6.52224056.png"
+    },
+    {
+        "name": "Medical Website",
+        "desc": "The medical website serves as an online platform for healthcare providers to connect with patients, offering information about their practice, services, and expertise. It's a crucial tool for building trust, attracting new patients, and enhancing communication with existing ones. Essentially, it's a digital front door for a medical practice.",
+        "duration": "June 2025 -July 2025",
+        "technologies": "HTML, CSS, Javascript, PHP",
+        "images": [
+            "uploads\/img_687d0b6f2895f3.31023082.png",
+            "uploads\/img_687d0b6f28e8b6.47399831.png",
+            "uploads\/img_687d0b6f293c73.78261340.png",
+            "uploads\/img_687d0b6f298c47.19780170.png",
+            "uploads\/img_687d0b6f29df54.90878813.png",
+            "uploads\/img_687d0b6f2a2e73.86249068.png",
+            "uploads\/img_687d0b6f2a7ce2.10143453.png",
+            "uploads\/img_687d0b6f2acef6.20840402.png",
+            "uploads\/img_687d0b6f2b1ca7.82671994.png",
+            "uploads\/img_687d0b6f2b7d52.58271776.png"
+        ],
+        "cover_image": "uploads\/img_687d0b6f2895f3.31023082.png"
+    }
+]
